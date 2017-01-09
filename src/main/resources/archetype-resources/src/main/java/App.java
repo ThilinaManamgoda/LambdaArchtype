@@ -18,14 +18,14 @@
  *  * under the License.
  *
  */
-package
+package ${groupId};
 
-import org.wso2.core.Context;
-import org.wso2.core.RequestHandler;
+import org.wso2.function.Context;
+import org.wso2.function.RequestHandler;
 
 public class App implements RequestHandler<I, O> {
     @Override
-    public O handleRequest(Context context,I input){
+    public O handleRequest(Context context, I input) {
         return null;
     }
 
