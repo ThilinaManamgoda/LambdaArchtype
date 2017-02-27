@@ -18,6 +18,6 @@
  *
  */
 
-public class AppTest{
+public class LambdaAppTest{
 
 }
